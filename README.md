@@ -2,6 +2,12 @@
 
 Plataforma de revisão para o 2º e o 3º ano do Ensino Médio, organizada por Linguagens, Matemática, Ciências da Natureza e Ciências Humanas.
 
+## Abrir o site
+
+**[Acessar Revisão SESI](https://rrrolim.github.io/revisao-sesi/)**
+
+Abra o link no computador, tablet ou celular para estudar direto no navegador, sem baixar arquivos.
+
 ## Identificação do trabalho
 
 - Curso: Técnico em Desenvolvimento de Sistemas
@@ -12,9 +18,15 @@ Plataforma de revisão para o 2º e o 3º ano do Ensino Médio, organizada por L
 - Alunos: preencher
 - Professor(a): preencher
 
-## Como abrir
+## Baixar e abrir no computador
 
-Baixe ou clone este repositório. Se baixar o ZIP, extraia a pasta e abra o arquivo `index.html`, na raiz do projeto, em um navegador. Não é necessário instalar programas, dependências ou banco de dados.
+Se preferir usar uma cópia local:
+
+1. No repositório, clique em **Code → Download ZIP**.
+2. Extraia o ZIP usando **Extrair tudo**.
+3. Abra a pasta extraída e dê dois cliques em `index.html`.
+
+Mantenha as pastas `assets`, `pages` e `conteudos` junto de `index.html` para tudo funcionar. Também é possível clonar o repositório. Não é necessário instalar programas, dependências ou banco de dados.
 
 ## Funcionalidades
 
